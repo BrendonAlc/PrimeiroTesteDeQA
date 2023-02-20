@@ -1,0 +1,14 @@
+{
+  "name": "testeqa",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Brendon Alcantara",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
