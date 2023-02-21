@@ -1,4 +1,4 @@
-# PrimeiroTesteDeQA
+# Passos para Visualização do teste
 Realização de teste Automatizado com Cypress para realizar a busca de curso indicado na configuração. 
 <br>
 #Utilizar comando no terminal para iniciar o json que será configurado: npm init
